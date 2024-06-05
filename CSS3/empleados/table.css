@@ -1,0 +1,43 @@
+th, td, tr{
+    border: solid 1px;
+    padding: 20px;
+    color: white;
+}
+
+thead{
+    background: #3E4053;
+    border-bottom: solid 5px;
+    color: white;
+}
+
+
+tr:hover td{
+    background-color: #282936;
+    color: white;
+    border: 5px solid;
+}
+
+.btnconsul{
+    width: 800px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Mukta', sans-serif;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: #FFF;
+    background-color: #282936;
+    border: 1px solid #000000;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    outline: none;
+}
+
+.btnconsul:hover{
+    background-color: #FFF;
+    color: #000;
+    transform: translateY(-2px);
+}
