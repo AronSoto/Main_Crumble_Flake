@@ -23,8 +23,8 @@ This project is a prototype comprehensive web application developed using HTML, 
 
 <hr>
 
-### Contributions
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+> [!TIP]
+> Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ### About Me
 You can find more of my projects on GitHub.
