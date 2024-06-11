@@ -5,30 +5,19 @@ This project is a prototype comprehensive web application developed using HTML, 
 
 ### Features
 
-```
-✅ Responsive Design: The application is built with a mobile-first approach, ensuring a seamless
-experience across a wide range of devices and screen sizes. By utilizing flexible grids and media
-queries, the layout adapts beautifully from desktops to smartphones.
+Text that is not a quote
 
-✅ Interactive UI Components: The project incorporates various interactive elements powered by
-JavaScript, such as dynamicforms.
-
-✅ Custom Animations and Transitions: Leveraging CSS animations and transitions, the project
-offers visually appealing effects. Smooth hover states, animated page elements, and transition
-effects contribute to a polished and engaging user experience.
-
-✅Accessibility Features: Adhering to web accessibility standards, the application includes
-features such as keyboard navigation, ARIA roles, and screen reader compatibility, ensuring
-that it is usable by a wider audience.
-
-✅Modern Design: The project features a clean and modern design, utilizing CSS for styling and
-layout. It incorporates current design trends to create an aesthetically pleasing and professional
-look.
-
-✅Optimized Performance: Best practices in HTML, CSS, and JavaScript have been followed to
-ensure fast loading times and efficient performance, providing users with a smooth and responsive
-experience.
-```
+> ✅  Responsive Design
+> 
+> ✅ Interactive UI Components
+> 
+>✅ Custom Animations and Transitions
+>
+> ✅Accessibility Features
+> 
+> ✅Modern Design
+> 
+> ✅Optimized Performance
 
 <hr>
 
