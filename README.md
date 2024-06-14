@@ -1,23 +1,14 @@
-
-## Crumble_Flake
-### Introduction
+## 🍪Crumble_Flake
 This project is a prototype comprehensive web application developed using HTML, CSS, and JavaScript. Below is an overview of the key features that make this project stand out.
 
-### Features
+### 🚀 Features
 
-Text that is not a quote
-
-> ✅  Responsive Design
-> 
-> ✅ Interactive UI Components
-> 
->✅ Custom Animations and Transitions
->
-> ✅Accessibility Features
-> 
-> ✅Modern Design
-> 
-> ✅Optimized Performance
+- 📱 Responsive Design
+- 🖱️ Interactive UI Components
+- 🎨 Custom Animations and Transitions
+- ♿ Accessibility Features
+- 🧑‍🎨 Modern Design
+- ⚡ Optimized Performance
 
 <hr>
 
@@ -30,5 +21,6 @@ Text that is not a quote
 
 ### About Me
 You can find more of my projects on GitHub.
+<img src="https://i.pinimg.com/originals/85/9c/84/859c843258e41f3fa647a920bb3b7fe1.gif" align = "right" width="100">
 
 I'm Aron and thank you for checking out my project!
