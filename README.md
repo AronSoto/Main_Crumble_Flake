@@ -19,15 +19,26 @@ This project is a prototype comprehensive web application developed using HTML, 
 <hr>
 
 ## 🍽️ What Crumble_Flake Offers
-Crumble_Flake presents a curated selection of dishes, profiles of talented chefs, and a section for user comments, fostering a dynamic culinary community online.
+Crumble_Flake presents a carefully curated selection of baked goods. Each dish is accompanied by detailed descriptions, ingredients and nutritional information for both cooking enthusiasts and the health-conscious.
 
-<img src="https://github.com/AronSoto/Main_Crumble_Flake/blob/main/Imagenes/real.gif" align = "right" width="500">
+<div>
+  
+<img src="https://media.tenor.com/UZnYGbNmp-oAAAAi/minecraft-cake.gif" align = "right" width="100">
+  
+- 🍲 Dishes: Explore a variety of dishes with detailed descriptions and visuals.
+- 👨‍🍳 Chefs: Meet chefs, learn about their backgrounds, and discover their cooking styles.
+- 💬 User Comments: Engage with food enthusiasts through comments and reviews.
 
-- 🍲 Dishes: Explore a variety of mouthwatering dishes with detailed descriptions and enticing visuals.
-- 👨‍🍳 Chefs: Meet the passionate chefs behind the recipes, learn about their backgrounds, and discover their unique cooking styles.
-- 💬 User Comments: Engage with a community of food enthusiasts through comments and reviews on dishes and chef profiles.
-- 🦶 Dynamic Footer: The footer dynamically updates with relevant links and information, providing a seamless user experience throughout the application.
+</div>
 
+<br>
+<p align="center">
+<a href="https://plane.so">
+  <img src="https://github.com/AronSoto/Main_Crumble_Flake/blob/main/Imagenes/652.gif" align = "center" width="800">
+</a>
+</p>
+
+<hr>
 
 > [!NOTE]
 > Contributions are welcome! If you find any issues or have suggestions for improvements.
