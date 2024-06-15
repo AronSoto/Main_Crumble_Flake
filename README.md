@@ -22,6 +22,6 @@ This project is a prototype comprehensive web application developed using HTML, 
 ## <img src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif" width="35" align="left">About Me
 
 You can find more of my projects on [GitHub](https://github.com/AronSoto).
-<img src="https://github.com/AronSoto/Main_Crumble_Flake/blob/main/Imagenes/bee-minecraft.gif" align = "right" width="80">
+<img src="https://media.tenor.com/xUsAhkVbgrQAAAAi/minecraft-bee.gif" align = "right" width="80">
 
 I'm Aron and thank you for checking out my project!
