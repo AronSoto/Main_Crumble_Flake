@@ -1,20 +1,33 @@
-## 🍪Crumble_Flake
+# 🍪Crumble_Flake
 This project is a prototype comprehensive web application developed using HTML, CSS, and JavaScript. Below is an overview of the key features that make this project stand out.
 
-### 🚀 Features
+## 🚀 Features
+<br>
+<img src="https://github.com/AronSoto/Main_Crumble_Flake/blob/main/Imagenes/real.gif" align = "right" width="500">
 
 - 📱 Responsive Design
 - 🖱️ Interactive UI Components
 - 🎨 Custom Animations and Transitions
-- ♿ Accessibility Features
+- 💊 Accessibility Features
 - 🧑‍🎨 Modern Design
 - ⚡ Optimized Performance
+- 🌃 Showcase high-resolution images
+- 🧩 Dynamic social media bar
+
+<br><br>
 
 <hr>
 
-![image](https://github.com/AronSoto/Main_Crumble_Flake/assets/115325057/0016a87c-1be6-428e-9a8b-407755be77d4)
+## 🍽️ What Crumble_Flake Offers
+Crumble_Flake presents a curated selection of dishes, profiles of talented chefs, and a section for user comments, fostering a dynamic culinary community online.
 
-<hr>
+<img src="https://github.com/AronSoto/Main_Crumble_Flake/blob/main/Imagenes/real.gif" align = "right" width="500">
+
+- 🍲 Dishes: Explore a variety of mouthwatering dishes with detailed descriptions and enticing visuals.
+- 👨‍🍳 Chefs: Meet the passionate chefs behind the recipes, learn about their backgrounds, and discover their unique cooking styles.
+- 💬 User Comments: Engage with a community of food enthusiasts through comments and reviews on dishes and chef profiles.
+- 🦶 Dynamic Footer: The footer dynamically updates with relevant links and information, providing a seamless user experience throughout the application.
+
 
 > [!NOTE]
 > Contributions are welcome! If you find any issues or have suggestions for improvements.
